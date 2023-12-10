@@ -1,1 +1,2 @@
 # Nasa-api-pictures
+Explore the cosmos with this web application that fetches captivating images from NASA's Astronomy Picture of the Day (APOD) API. Discover awe-inspiring images, read insightful explanations, and save your favorite pictures to revisit later. The app features a user-friendly interface with the ability to switch between the latest NASA images and your saved favorites. Embark on a visual journey through space and time with the NASA API Pictures web application.
